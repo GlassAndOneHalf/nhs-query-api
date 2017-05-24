@@ -1,6 +1,6 @@
 package io.hindle.server.models
 
-import util.Stopwords
+import io.hindle.util.Stopwords
 
 case class SymptomQuery(query: String) {
   /**

@@ -1,4 +1,4 @@
-package util
+package io.hindle.util
 
 /**
   * Stopwords sourced from https://github.com/Alir3z4/stop-words/blob/master/english.txt
