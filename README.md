@@ -11,7 +11,7 @@ Running the API
 1. Ensure the input directory is correct in `application.conf`. This directory
 should contain the files from the [NHS Website Scraper](https://github.com/GlassAndOneHalf/nhs-website-scraper)
 
-2. Ensure you have [SBT]() installed.
+2. Ensure you have [SBT](http://www.scala-sbt.org) installed.
 
 3. Navigate to the project in your favourite terminal application and enter `sbt run`
 
