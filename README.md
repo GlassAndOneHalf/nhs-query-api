@@ -38,6 +38,12 @@ webpage. For example:
 
 To stop the application, simply perform an interrupt with `Ctrl-C`.
 
+Dependencies
+---
+- [http4s](https://github.com/http4s/http4s) is used to implement the REST API.
+- [Circe](https://github.com/circe/circe) is used for parsing and handling JSON data.
+- [Apache Lucene](https://lucene.apache.org/core/) is used for indexing and performing document queries.
+
 Potential Improvements
 ---
 Due to time constraints, there are some improvements that could be made to this application.
